@@ -1,2 +1,3 @@
-# githubCourseraproj1# Simple Interest Calculator Project
-This repository contains a simple shell script project created as part of the Git final assignment.
+# Simple Interest Calculator
+
+This project is a Bash-based Simple Interest Calculator. It takes user input for principal amount, rate of interest, and time period, and computes the simple interest.
